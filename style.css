@@ -9,9 +9,9 @@
     border: 3px solid black;
     display: grid;
     grid-template-columns: 150px 1fr 1fr ;
-    grid-template-rows: 30px 30px;
+    grid-template-rows: 30px 30px;      
      gap: 1px;
-
+ p
     /* grid-template-columns: 1fr 1fr 1fr  ; ya */ 
     /* grid-template-columns: repeat(3,1fr); */
     /* grid-template-columns: 200px 200px 210px; */
@@ -31,7 +31,7 @@
     grid-row-start: 2;
     grid-row-end: 4;
 }
-#box1, #box4{
+#box1{
     grid-column-start: 1;
     grid-column-end: 5;
 }
