@@ -1,4 +1,5 @@
-.container{
+.container{         
+/* Add CSS Grid layout with header, sidebar, main content, and footer */
     border: 1px solid black;
     background-color: yellow;
     height: 700px;
