@@ -19,6 +19,7 @@
     border: 1px solid red;
     background-color: aqua;
 }
+ /* "Assign header to grid area hd" */
 #header{
     grid-area:hd;
 }
