@@ -23,6 +23,7 @@
 #header{
     grid-area:hd;
 }
+/* "Assign footer to grid area ft" */
 #footer{
     grid-area:ft;
 }
