@@ -27,6 +27,7 @@
 #footer{
     grid-area:ft;
 }
+assign sidebar element to side grid area
 #sidebar{
     grid-area: side;
 }
