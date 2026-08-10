@@ -27,10 +27,11 @@
 #footer{
     grid-area:ft;
 }
-assign sidebar element to side grid area
+/* assign sidebar element to side grid area */
 #sidebar{
     grid-area: side;
 }
+/* assign content section to main grid area */
 #content{
     grid-area: main;
 }
