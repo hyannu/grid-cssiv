@@ -45,7 +45,7 @@
 
     grid-gap:3px;
 }
- "Style grid elements with border and background"
+ /* "Style grid elements with border and background" */
 .element{
     border: 2px solid green;
     background-color: brown;
