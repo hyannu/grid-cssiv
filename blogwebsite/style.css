@@ -13,11 +13,12 @@
     "side main"
     "ft ft";
 }
-feat: add basic styling for box component"
+/* feat: add basic styling for box component" */
 .box{
     border: 1px solid red;
     background-color: aqua;
 }
+feat: define grid areas for page layout"
 #header{
     grid-area:hd;
 }
