@@ -22,13 +22,14 @@
     /* row and column gap */
    
 }
-Updated box CSS styling
+/* Updated box CSS styling */
 .box{
     background-color: aqua;
     border: 1px solid green;
     /* width: 80px;
     height: 80px; */
 }
+Added grid row span for box3
 #box3{
     grid-row-start: 2;
     grid-row-end: 4;
