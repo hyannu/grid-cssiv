@@ -29,11 +29,12 @@
     /* width: 80px;
     height: 80px; */
 }
-Added grid row span for box3
+/* Added grid row span for box3 */
 #box3{
     grid-row-start: 2;
     grid-row-end: 4;
 }
+"Set box1 to span four grid columns"
 #box1{
     grid-column-start: 1;
     grid-column-end: 5;
