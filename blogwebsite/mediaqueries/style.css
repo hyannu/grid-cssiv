@@ -18,7 +18,7 @@
     "side main"
     "ft ft";
 }
-"Style box with border and background color"
+/* "Style box with border and background color" */
 .box{
     border: 1px solid red;
     background-color: aqua;

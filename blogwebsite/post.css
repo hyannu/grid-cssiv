@@ -20,6 +20,8 @@
     border: 1px solid red;
     background-color: aqua;
 }
+ "Define grid areas for header, footer, sidebar, and content"
+
 #header{
     grid-area:hd;
 }
